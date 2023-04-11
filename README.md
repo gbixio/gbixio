@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galit Layla Bixio</h1>
-<h3 align="center">A passionate fullstack developer based in Barcelona</h3>
+<h3 align="center">A passionate junior fullstack developer based in Barcelona</h3>
 
 - 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
 
