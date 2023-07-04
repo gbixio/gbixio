@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
 
 - 🌱 I’m currently learning **Python**
-- 
-- 👀 Don't miss my portfolio  **bit.ly/bixiofullstack ** 
+  
+- 👀 <a href="bit.ly/bixiofullstack ">Don't miss my portfolio</a>
 
 - 📫 How to reach me **galbixio93@gmail.com**
  
