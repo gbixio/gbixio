@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
   
-- 👀 <a href="bit.ly/bixiofullstack ">Don't miss my portfolio</a>
+- 👀 <a href="https://master--sunny-caramel-671215.netlify.app/ ">Don't miss my portfolio</a>
 
 - 📫 How to reach me **galbixio93@gmail.com**
  
